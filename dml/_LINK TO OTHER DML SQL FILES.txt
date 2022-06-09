@@ -1,0 +1,4 @@
+Note : file-file berikut memiliki size yang sangat besar, sehingga harus diletakkan di dalam cloud storage
+- Transactions : https://the-others.s3.ap-southeast-1.amazonaws.com/its/mbd/Transactions.sql
+- TransactionItems : https://the-others.s3.ap-southeast-1.amazonaws.com/its/mbd/TransactionItems.sql
+- ReportItems : https://the-others.s3.ap-southeast-1.amazonaws.com/its/mbd/ReportItems.sql
